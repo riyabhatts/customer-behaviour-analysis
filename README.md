@@ -4,7 +4,7 @@
 This project focuses on analyzing customer behavior to understand purchasing patterns, trends, and key business insights.
 The analysis was performed using Python, SQL, and Power BI as part of hands-on learning in data analytics.
 
-The goal of this project is to practice:
+>The goal of this project is to practice:
 
 Data cleaning and preprocessing
 
