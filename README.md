@@ -1,76 +1,58 @@
-📊 Customer Behavior Analysis
-📌 Project Overview
+**Customer Behavior Analysis
+**
+1. Project Overview
 
 This project focuses on analyzing customer behavior to understand purchasing patterns, trends, and key business insights.
 The analysis was performed using Python, SQL, and Power BI as part of hands-on learning in data analytics.
 
 >The goal of this project is to practice:
 
-Data cleaning and preprocessing
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- SQL-based analysis
+- Data visualization and dashboard creation
 
-Exploratory Data Analysis (EDA)
+2.  Tools & Technologies Used
 
-SQL-based analysis
+- Python: NumPy, Pandas
+- SQL: Data querying and aggregation
+- Power BI: Interactive dashboard and visualizations
 
-Data visualization and dashboard creation
-
-🛠 Tools & Technologies Used
-
-Python: NumPy, Pandas
-
-SQL: Data querying and aggregation
-
-Power BI: Interactive dashboard and visualizations
-
-📂 Dataset
+3. Dataset
 
 The dataset contains customer-related information such as purchases, demographics, and transaction details.
-
 Data was cleaned and transformed before analysis.
 
 (Dataset used for educational and learning purposes.)
 
-🔄 Project Workflow
+4. Project Workflow
 
-Data Cleaning & Preprocessing using Python
+- Data Cleaning & Preprocessing using Python
+- Exploratory Data Analysis (EDA)
+- SQL queries to extract insights
+- Data visualization and dashboard creation in Power BI
 
-Exploratory Data Analysis (EDA)
+5.  Key Analysis Performed
 
-SQL queries to extract insights
+- Customer purchasing behavior analysis
+- Identification of trends and patterns
+- Customer segmentation insights
+- Performance metrics visualization
 
-Data visualization and dashboard creation in Power BI
-
-📈 Key Analysis Performed
-
-Customer purchasing behavior analysis
-
-Identification of trends and patterns
-
-Customer segmentation insights
-
-Performance metrics visualization
-
-📊 Power BI Dashboard
+6.  Power BI Dashboard
 
 The Power BI dashboard provides interactive visualizations that help in understanding:
-
 Customer trends
-
 Purchase behavior
-
 Key performance indicators (KPIs)
 
-📌 Dashboard screenshots are included in the repository.
+7. Dashborad
 
-🎯 Key Learnings
-
-Improved understanding of end-to-end data analytics workflow
-
-Hands-on experience with Python, SQL, and Power BI
-
-Learned how to convert raw data into meaningful insights
+![Dashboard Preview](https://github.com/riyabhatts/customer-behaviour-analysis/blob/main/Dashboard_SS2.png)
 
 👤 Author
 
 Riya Bhatt
 Aspiring Data Analyst
+Follow me on linkedIn : https://www.linkedin.com/in/riyabhattz/
+
