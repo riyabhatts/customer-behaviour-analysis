@@ -52,7 +52,7 @@ Key performance indicators (KPIs)
 
 👤 Author
 
-Riya Bhatt
-Aspiring Data Analyst
-Follow me on linkedIn : https://www.linkedin.com/in/riyabhattz/
+- Riya Bhatt
+- Aspiring Data Analyst
+- Follow me on linkedIn : https://www.linkedin.com/in/riyabhattz/
 
