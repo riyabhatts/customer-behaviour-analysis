@@ -50,6 +50,19 @@ Key performance indicators (KPIs)
 
 ![Dashboard Preview](https://github.com/riyabhatts/customer-behaviour-analysis/blob/main/Dashboard_SS2.png)
 
+8. Insights & Actions
+   
+- Only 27% customers are subscribed, so the company should introduce loyalty programs, reward points, and exclusive member discounts to increase repeat purchases.
+- The Clothing category generates the highest revenue (104K), so the company should increase marketing and inventory for clothing products.
+- Accessories have strong sales (1240), therefore cross-selling accessories with clothing can increase average order value.
+- Footwear and Outerwear have low sales, so seasonal discounts and promotional campaigns should be launched to improve demand.
+- Young Adults generate the highest revenue (62K), so the company should focus on social media and influencer marketing for this age group.
+- The company should provide personalized recommendations and targeted offers based on customer age groups and buying behavior.
+- The average review rating is only 3.75, indicating the need to improve product quality, delivery speed, and customer service.
+- Customer feedback and review analysis should be used to identify common complaints and improve customer satisfaction.
+- The company should create bundle offers such as “Buy Clothing + Accessories” to increase sales and customer engagement.
+- By improving subscriptions, customer satisfaction, and category-wise marketing strategies, the company can increase revenue, loyalty, and long-term business growth.
+
 👤 Author
 
 - Riya Bhatt
