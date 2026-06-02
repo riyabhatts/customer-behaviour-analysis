@@ -48,7 +48,7 @@ Key performance indicators (KPIs)
 
 **7. Dashborad**
 
-![Dashboard Preview]([https://github.com/riyabhatts/customer-behaviour-analysis/blob/main/Dashboard_SS2.png](https://github.com/riyabhatts/customer-behaviour-analysis/blob/main/Dashboard.png))
+![Dashboard Preview](https://github.com/riyabhatts/customer-behaviour-analysis/blob/main/Dashboard.png)
 
 **8. Insights & Actions**
    
